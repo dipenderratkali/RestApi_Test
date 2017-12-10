@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1494" started-at="2017-12-10T19:15:12Z" finished-at="2017-12-10T19:15:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1494" started-at="2017-12-10T19:15:12Z" finished-at="2017-12-10T19:15:13Z">
+      <class name="Restdemo1">
+        <test-method status="PASS" signature="GetCategoriesDetails()[pri:0, instance:Restdemo1@6d4b1c02]" name="GetCategoriesDetails" duration-ms="1472" started-at="2017-12-11T00:45:12Z" finished-at="2017-12-11T00:45:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCategoriesDetails -->
+      </class> <!-- Restdemo1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
